@@ -1,6 +1,6 @@
 ### Hi there :metal:!
 
-I'm Alex Castillo, a guy from Tarragona.
+I'm Alex CB, a guy from Tarragona.
 
 I love coding, music, video games, model kits, animals and carnivorous plants.
 
