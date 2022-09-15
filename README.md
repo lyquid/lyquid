@@ -2,7 +2,7 @@
 
 I'm Alex CB, a guy from Tarragona.
 
-I love coding, music, video games, model kits, animals and carnivorous plants.
+I love coding, music, video games, reading, model kits, animals and carnivorous plants.
 
 <!--
 **lyquid/lyquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
