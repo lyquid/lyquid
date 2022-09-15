@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there :metal:!
+
+I'm Alex Castillo, a guy from Tarragona.
+
+I love coding, music, video games, model kits, animals and carnivorous plants.
 
 <!--
 **lyquid/lyquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
