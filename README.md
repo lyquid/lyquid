@@ -4,8 +4,6 @@ I'm Alex CB, a guy from Tarragona.
 
 I love coding, reading, music, video games, model kits, animals, carnivorous plants and see everything.
 
-- 🔭 I’m currently working on [scapp](https://github.com/lyquid/scapp)
-
 <!--
 **lyquid/lyquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
